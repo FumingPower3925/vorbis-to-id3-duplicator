@@ -1,0 +1,10 @@
+uuid = "56771587-ca3f-45eb-a050-44b1cf31a195"
+name = "Vorbis to ID3 Duplicator"
+description = "Copies all Vorbis comment tags (including cover art) to ID3v2 tags in FLAC files after saving, for software that does not read Vorbis comments."
+version = "1.0.0"
+api = ["3.0"]
+authors = ["Albert Bausili Fernández"]
+license = "MIT"
+license_url = "https://opensource.org/licenses/MIT"
+categories = ["formats"]
+homepage = "https://github.com/FumingPower3925/vorbis-to-id3-duplicator"
